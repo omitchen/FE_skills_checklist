@@ -1,22 +1,26 @@
 # 📝 FE_skills_checklist
 
+This is a comprehensive and continuously updated checklist for front-end engineers to help them assess and track their skill levels, allowing them to identify areas for improvement in a timely manner.
 这是一份完整的持续更新的前端工程师技能自检清单的文档库，用于帮助前端工程师检查并跟踪他们的技能水平，及时发现自己的不足。
 
-## 💡 目的
+## 💡 Purpose 目的
 
+This checklist aims to provide a method for front-end engineers to track their skill levels, enabling them to discover their shortcomings and take further actions to enhance their skills.
 本清单旨在提供一种跟踪前端工程师技能水平的方法，以便他们可以及时发现自己的不足，并采取进一步的行动来提高技能水平。
 
-## 📋 内容
+## 📋 Content 内容
 
+This checklist covers various aspects of front-end engineering skills, including:
 本清单涵盖了前端工程师技能的各个方面，包括：
 
 - HTML
 - CSS
 - JavaScript
-- 构建工具
+- Build Tools
 - Node
-- 调试
+- Debugging
 
+Each skill has specific sub-skills, and each sub-skill includes detailed tasks to assist in checking and tracking one's skill level.
 每个技能都有具体的子技能，并且每个子技能都有具体的任务，用于帮助检查和跟踪自己的技能水平。
 
 ## 🌟 目录
@@ -40,16 +44,3 @@
 [CSS](./CSS.md)
 
 [手写布局样式](./%E6%89%8B%E5%86%99%E7%B3%BB%E5%88%97.md)
-
-## 📈 更新
-
-本清单将持续更新，以确保其始终保持最新的状态。
-
-## 📝 贡献
-
-欢迎各位前端工程师积极参与本清单的编写，以提供更多的技能检查项。
-
-## 🙏 感谢
-
-感谢所有参与和支持本清单的人！
-
